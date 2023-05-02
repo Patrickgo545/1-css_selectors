@@ -1,0 +1,16 @@
+/* Both Buttons */
+
+.font {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.yellow {
+    color: black;
+    background-color: yellow;
+}
+
+.black {
+    color: aliceblue;
+    background-color: black;
+}
