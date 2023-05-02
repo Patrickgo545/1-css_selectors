@@ -1,0 +1,25 @@
+/* Type Selector */
+
+.odd {
+    background-color: rgb(235, 119, 119);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* Class selector */
+.font-adjustment {
+    font-size: 40px;
+}
+
+/* ID number 2 */
+#num-two {
+    color: rgb(84, 84, 230);
+    font-size: 60px;
+}
+
+/* ID selector # 4 */
+
+#num-four {
+    background-color: rgb(128, 245, 128);
+    font-weight: 700;
+}
+
